@@ -1,0 +1,6 @@
+Line 27: Class MSComDlg.CommonDialog of control ComDlg1 was not a loaded control class.
+Line 70: Class FlexCell.Grid of control Grid1 was not a loaded control class.
+Line 86: Class PrjShayan.TypeButton of control CmdPrev was not a loaded control class.
+Line 124: Class PrjShayan.TypeButton of control CmdSave was not a loaded control class.
+Line 162: Class PrjShayan.TypeButton of control CmdOpen was not a loaded control class.
+Line 200: Class PrjShayan.TypeButton of control CmdExcel was not a loaded control class.
